@@ -234,7 +234,7 @@ export default RootRouter;
 1. Git Clone
 
 ```plaintext
-$ git clone https://github.com/pre-onboading-2team/Week1_2_Issue_List.git
+$ git clone git@github.com:pre-onboading-2team/pre-onboarding-7th-2-1-2.git
 ```
 
 2. 프로젝트 패키지 설치
